@@ -1,0 +1,14 @@
+body {
+  background-color: blue;
+}
+
+.movie-card {
+  color: white;
+  width: 200px;
+  height: 500px;
+  text-align: center;
+}
+
+.movies-list {
+  display: inline;
+}
